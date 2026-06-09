@@ -2,7 +2,7 @@
 
 A systematic experimental codebase for 8× super-resolution of thermal (infrared) images. The repository benchmarks and extends multiple SR architectures — from shallow CNN baselines to GAN-based generative models — with thermal-specific loss engineering, edge-aware modifications, frequency-domain supervision, and diffusive gradient regularization.
 
----
+
 
 ## Project Overview
 
